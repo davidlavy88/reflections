@@ -26,3 +26,5 @@ Both results in different branches get merged. To see what and how this is happe
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Automatic merging doesn't give you much control of what you commit.
