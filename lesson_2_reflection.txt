@@ -8,13 +8,21 @@ Is the link in between, it helps you to select the files that you want to update
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+I will first add my first logical change and then I will commit it. Later I'll the second, and so on.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+When I do different versions, or add different things to my project. It helps by keeping track of all of them.
+
 How do the diagrams help you visualize the branch structure?
+
+By checking what files are on the branches.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+Both results in different branches get merged. To see what and how this is happening.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
