@@ -26,4 +26,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    For testing differents versions of a code, recipe, etc. Then others can check it, use it. And once is ready I can merge it on my local master and also my online master repository.
