@@ -16,12 +16,12 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It will know that once I update the status of the remote, what changes I made and what changes have other made, then will tell me what has been modified.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    It would be pretty difficult trying to keep track of all the changes. Using git and Github is much easier.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
